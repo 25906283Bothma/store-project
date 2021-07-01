@@ -42,6 +42,6 @@ export const services = [
   },
 ]
 
-export const products_url = 'https://course-api.com/react-store-products'
+export const products_url = 'https://course-apihttps://api.airtable.com/v0/appDEHeH8EDQ13r7L/Table%201?api_key=keyhVfHtuogPhOeoT.com/react-store-products'
 
 export const single_product_url = `https://course-api.com/react-store-single-product?id=`
