@@ -1,6 +1,4 @@
 import React from 'react'
-require('dontenv').config()
-const Airtable = require('airtable')
 import { GiCompass, GiDiamondHard, GiStabbedNote } from 'react-icons/gi'
 export const links = [
   {
