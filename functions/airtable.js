@@ -9,7 +9,7 @@ exports.handler = async (event,context, cb) => {
         const data = await airtable.list()
         const products = records.map((product)) => {
             const {id} = product;
-            const {}
+            const {};
         }
 
     } catch (error){
