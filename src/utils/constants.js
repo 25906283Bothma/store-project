@@ -41,7 +41,7 @@ export const services = [
       'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
   },
 ]
-export const products_url = 'https://api.airtable.com/v0/appDEHeH8EDQ13r7L/Table%201?api_key=keyhVfHtuogPhOeoT'
+export const products_url = 'https://api.airtable.com/v0/app84WGywZUlHjoiu/store?api_key=keyPl3nHlhSQjbeYK'
 
-export const single_product_url = 'https://api.airtable.com/v0/appDEHeH8EDQ13r7L/Table%201?api_key=keyhVfHtuogPhOeoT'
+export const single_product_url = 'https://api.airtable.com/v0/app84WGywZUlHjoiu/store?api_key=keyPl3nHlhSQjbeYK'
 
