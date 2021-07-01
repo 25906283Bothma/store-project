@@ -7,7 +7,11 @@ const airtable = new Airtable({apiKey: keyhVfHtuogPhOeoT})
 exports.handler = async (event,context, cb) => {
     try {
         const data = await airtable.list()
-        console.log(data)
+        const products = records.map((product)) => {
+            const {id} = product;
+            const {}
+        }
+
     } catch (error){
 
     }
