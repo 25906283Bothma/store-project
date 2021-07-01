@@ -43,12 +43,6 @@ export const services = [
       'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
   },
 ]
-var Airtable = require('airtable');
-Airtable.configure({
-    endpointUrl: 'https://api.airtable.com',
-    apiKey: process.env.AIRTABLE_API_KEY
-});
-var base = Airtable.base('appDEHeH8EDQ13r7L');
 
 exports.handler = async (event,context, cb) => {
     try {
