@@ -11,7 +11,8 @@ exports.handler = async (event,context, cb) => {
     } catch (error){
 
     }
-    return
+    return{
     statusCode: 200,
     body: 'Airtable Example',
+    }
 }
