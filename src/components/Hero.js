@@ -21,8 +21,8 @@ const Hero = () => {
         </Link>
       </article>
       <article className='img-container'>
-        <img src={heroBcg} alt='nice table' className='main-img' />
-        <img src={heroBcg2} alt='person working' className='accent-img' />
+        <img src={heroBcg} alt='Pour over coffee' className='main-img' />
+        <img src={heroBcg2} alt='Coffee roasting' className='accent-img' />
       </article>
     </Wrapper>
   )
